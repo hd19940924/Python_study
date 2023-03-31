@@ -1,0 +1,99 @@
+{
+  "uid" : "82d617f436dbc48d",
+  "name" : "test_then",
+  "fullName" : "test_pytest5#test_then",
+  "historyId" : "87c8f92c7c2919ae788ac29077fc5c69",
+  "time" : {
+    "start" : 1680083286951,
+    "stop" : 1680083286951,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1680083286831,
+      "stop" : 1680083286950,
+      "duration" : 119
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "begin",
+    "time" : {
+      "start" : 1680083286950,
+      "stop" : 1680083286950,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "开始测试"
+  }, {
+    "name" : "suite",
+    "value" : "test_pytest5"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-8IBTFRJA"
+  }, {
+    "name" : "thread",
+    "value" : "23176-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_pytest5"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e9fc5aa537ffc20b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1680083021683,
+        "stop" : 1680083021683,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "82f98cf6c2af5b69",
+      "status" : "passed",
+      "time" : {
+        "start" : 1680082939610,
+        "stop" : 1680082939611,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "82d617f436dbc48d.json",
+  "parameterValues" : [ ]
+}

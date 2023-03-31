@@ -1,0 +1,78 @@
+{
+  "uid" : "55d32c022fe215f0",
+  "name" : "test_next",
+  "fullName" : "test_pytest5#test_next",
+  "historyId" : "fd700cc73af11652600b49bb6a55ebba",
+  "time" : {
+    "start" : 1680083021690,
+    "stop" : 1680083021690,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "begin",
+    "time" : {
+      "start" : 1680083021689,
+      "stop" : 1680083021689,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1680083021562,
+      "stop" : 1680083021682,
+      "duration" : 120
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_pytest5"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-8IBTFRJA"
+  }, {
+    "name" : "thread",
+    "value" : "20212-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_pytest5"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "55d32c022fe215f0.json",
+  "parameterValues" : [ ]
+}
